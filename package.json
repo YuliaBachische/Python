@@ -1,1 +1,3 @@
-"start" : "node app.js"
+{
+  "url": "https://bots.domain.tld/api/v1/echo","start": "Procfile"
+}
