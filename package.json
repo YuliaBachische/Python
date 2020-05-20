@@ -1,5 +1,8 @@
 
 {
-  "url": "https://bots.domain.tld/api/v1/echo","start": "Procfile",
-  "node": "6.11.1"
+  "url": "https://bots.domain.tld/api/v1/echo",
+  "node": "6.11.1",
+  "scripts": {
+    "start": "node your-script.js"
+  }
 }
