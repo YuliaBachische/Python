@@ -1,1 +1,5 @@
-"start"
+
+{
+  "url": "https://bots.domain.tld/api/v1/echo","start": "Procfile",
+  "node": "6.11.1"
+}
